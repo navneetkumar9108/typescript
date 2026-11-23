@@ -1,4 +1,7 @@
-import axios, {type AxiosResponse} from "axios"
+import axios ,{type AxiosResponse}from "axios"
+// import type { AxiosResponse } from "axios";
+// import  {type AxiosResponse } from "axios";
+
 
 // npm i -D types/some-library 
 // {
